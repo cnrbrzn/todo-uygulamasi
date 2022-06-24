@@ -1,0 +1,15 @@
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\bin\Debug\net6.0\todo-uygulamasi.exe
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\bin\Debug\net6.0\todo-uygulamasi.deps.json
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\bin\Debug\net6.0\todo-uygulamasi.runtimeconfig.json
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\bin\Debug\net6.0\todo-uygulamasi.dll
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\bin\Debug\net6.0\todo-uygulamasi.pdb
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.AssemblyInfo.cs
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.dll
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\refint\todo-uygulamasi.dll
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.pdb
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\todo-uygulamasi.genruntimeconfig.cache
+C:\Users\cborazan\source\repos\Pratikler\todo-uygulamasi\obj\Debug\net6.0\ref\todo-uygulamasi.dll
